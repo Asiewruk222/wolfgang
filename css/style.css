@@ -105,6 +105,10 @@ section, header {
     margin-top: -3.2rem;
 }
 
+.m-image {
+    margin-bottom: 1rem;
+}
+
 section, header {
     margin-bottom: 0.3rem;
 }
